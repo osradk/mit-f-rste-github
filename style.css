@@ -17,6 +17,11 @@ p{
     /* kan også være padding-bottom */
 }
 #wrapper{
-    max-width: 1440px;
+    max-width: 1000px;
+    margin: 0 auto;
+    background-color: aquamarine;
+}
+.ff{
+    max-width: 100px;
     margin: 0 auto;
 }
